@@ -1,4 +1,4 @@
-- 👋 Hi, I’m my name is John Dao and I am a results oriented and self-motivated analyst with a strong competent background in analytics and statistics. 
+👋 Hi, I’m my name is John Dao and I am a results oriented and self-motivated analyst with a strong competent background in analytics and statistics. 
 I am familiar and comfortable with extensive data querying, dashboard and report building, and presenting to key stake holders. 
 Looking to continue to bridge the gap between data and business, as well as implementing data-driven solutions to business problems. 
 Also, willing to relocate, if necessary.
